@@ -10,7 +10,7 @@ Guardians on Minecraft Bedrock use specific spawn locations in each chunk that t
 
 [Bedrock Technical Resource Pack](https://github.com/RavinMaddHatter/Bedrock-Technical-Resource-Pack)
 
-This strips out the crop water feature into a standalone addon and updates it to support 1.19.30
+This strips out the feature into a standalone addon and updates it to support 1.19.30
 
 ## How To Use
 
